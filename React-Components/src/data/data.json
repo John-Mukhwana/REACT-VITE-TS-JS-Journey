@@ -1,33 +1,59 @@
 [
     {
-        "id": "1",
+        "id": 1,
+        "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "rating": 2
+    },
+    {
+        "id": 2,
+        "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "rating": 3
+    },
+    {
+        "id": 3,
+        "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "rating": 5
+    },
+    {
+        "id": 4,
         "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
         "rating": 4
     },
     {
-        "id": "2",
+        "id": 5,
+        "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "rating": 1
+    },
+    {
+        "id": 6,
+        "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "rating": 5
+    },
+    {
+        "id": 7,
         "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
         "rating": 4
     },
     {
-        "id": "3",
+        "id": 8,
         "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
-        "rating": 4
+        "rating": 2
     },
     {
-        "id": "4",
+        "id": 9,
         "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
-        "rating": 4
+        "rating": 1
     },
     {
-        "id": "5",
+        "id": 10,
         "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
-        "rating": 4
+        "rating": 3
     },
     {
-        "id": "6",
+        "id": 11,
         "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!",
-        "rating": 4
+        "rating": 5
     }
+
 
 ]

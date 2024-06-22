@@ -1,0 +1,28 @@
+
+
+.joke{
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+    font-family: 'Inter', sans-serif;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    // width:200px;
+    .id{
+        font-size: 1rem;
+        color: #b71818;
+    }
+    .data{
+        font-size: 1.5rem;
+        color: #32cc17;
+    }
+    .rating{
+        font-size: 1rem;
+        font-weight:bolder ;
+        color: rgb(77, 29, 29);
+    }
+
+
+
+}
